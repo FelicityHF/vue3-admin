@@ -6,3 +6,7 @@ export default {
   name: "APP",
 };
 </script>
+<style lang="scss">
+#app {
+}
+</style>
